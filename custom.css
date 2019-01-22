@@ -1,5 +1,6 @@
 
 .TeamSidebar, .TeamSidebar .StoplightContainer, .TeamSidebar .TeamSidebar-addArea {
-display: none;
+   visibility: hidden;
+
 
 }
